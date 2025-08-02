@@ -70,6 +70,12 @@ This assistant makes digital financial literacy accessible, secure, and inclusiv
 It builds user confidence, promotes awareness, and reduces fraud exposure—empowering people to make smarter financial decisions.
 
 ---
+## 👤 Author
 
-## 📂 Project Structure
+👩‍💻 **S M Jawhra**  
+B.Tech CSE, IIITDM Kancheepuram  
+Watsonx Hackathon Participant | August 2025  
+📍 Region: Dallas (IBM Cloud)
+
+---
 
