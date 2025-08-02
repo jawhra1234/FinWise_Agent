@@ -1,0 +1,20 @@
+
+Project Title: AI Agent for Digital Financial Literacy
+
+Overview:
+This project aims to build an AI-powered assistant using Watsonx.ai and Retrieval-Augmented Generation (RAG) architecture.
+The assistant is designed to promote financial literacy in India, especially among rural and underserved populations.
+
+Key Features:
+- Built with IBM Watsonx.ai using RAG and IBM Granite models.
+- Supports multilingual responses (English, Hindi, Telugu).
+- Educates users on UPI, digital payments, scams, budgeting, loans, and government schemes like Jan Dhan and NSAP.
+- Sources content from RBI, NPCI, government portals, and trusted public documents.
+
+Agent Instructions:
+- Never request personal data like Aadhaar, OTP, or bank details.
+- Always warn users about phishing and fraud; direct to cybercrime.gov.in.
+- Speak in a simple, culturally sensitive tone.
+
+Goal:
+To empower individuals with practical financial knowledge and reduce vulnerability to scams, fostering inclusion and trust in digital financial systems.
